@@ -5,4 +5,5 @@ def say_hello(name)
 end 
 
 def say_hello()
+  puts "Hello #{}!"
 end 
