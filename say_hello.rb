@@ -4,6 +4,6 @@ def say_hello(name)
   puts "Hello #{name}!"
 end 
 
-def say_hello(1)
-  puts "Hello #{1}!"
+def say_hello()
+  puts "Hello #{}!"
 end 
